@@ -84,7 +84,7 @@ Excludes data from questions 0, 3, 4, and 11-16.
 
 ### */core/course-names*
 
-**Source:** */raw/reports*, https://flscns.fldoe.org/PbCourseDescriptions.aspx.
+**Source:** https://registrar.fsu.edu/class_search, https://flscns.fldoe.org/PbCourseDescriptions.aspx
 
 ### */core/teaching-[semester]*
 
