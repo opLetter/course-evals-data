@@ -48,7 +48,7 @@ val Questions = listOf(
 )
 ```
 
-## */processed*
+## */generated*
 
 Backend data for [EVALS: USF](https://opletter.github.io/course-evals/usf/).
 

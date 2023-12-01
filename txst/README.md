@@ -60,7 +60,7 @@ val Questions = listOf(
 )
 ```
 
-## */processed*
+## */generated*
 
 Backend data for [EVALS: TXST](https://opletter.github.io/course-evals/txst/).
 

@@ -72,7 +72,7 @@ val QuestionMapping = listOf(
 ).withIndex().associate { it.value to it.index }
 ```
 
-## */processed*
+## */generated*
 
 Backend data for [EVALS: FSU](https://opletter.github.io/course-evals/fsu/).
 
