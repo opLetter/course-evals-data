@@ -5,7 +5,7 @@
 The complete dataset of course evaluation reports.
 
 - **Source:** https://fsu.evaluationkit.com/Report/Public
-- **Timeframe:** Fall 2013 - Spring 2023 (Fall, Spring, and Summer terms)
+- **Timeframe:** Fall 2013 - Fall 2023 (Fall, Spring, and Summer terms)
 
 ### Notes
 - File names represent the search term used to gather the data, matching the first 4 characters of the course code

@@ -5,7 +5,7 @@
 The complete dataset of course evaluation reports.
 
 - **Source:** https://fair.usf.edu/EvaluationMart/
-- **Timeframe:** Fall 2005 - Spring 2023 (Fall, Spring, and Summer terms)
+- **Timeframe:** Fall 2005 - Fall 2023 (Fall, Spring, and Summer terms)
 
 ### Notes
 - Data is organized in directories by course prefix
@@ -56,7 +56,7 @@ Backend data for [EVALS: USF](https://opletter.github.io/course-evals/usf/).
 
 **Source:** */raw/reports*
 
-Only based on data from Fall 2012 onwards. 
+Only based on data from Fall 2013 onwards. 
 
 ### */core/course-names*
 
