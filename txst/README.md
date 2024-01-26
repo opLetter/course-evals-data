@@ -5,7 +5,7 @@
 The complete dataset of course evaluation reports.
 
 - **Source:** https://hb2504.txst.edu/
-- **Timeframe:** Fall 2021 - Spring 2023 (Fall, Spring, and Summer terms)
+- **Timeframe:** Fall 2021 - Fall 2023 (Fall, Spring, and Summer terms)
 
 ### Notes
 - Data is organized by instructor, with the file names corresponding to the instructor's plid
