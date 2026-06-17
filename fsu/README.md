@@ -5,10 +5,10 @@
 The complete dataset of course evaluation reports.
 
 - **Source:** https://fsu.evaluationkit.com/Report/Public
-- **Timeframe:** Fall 2013 - Fall 2023 (Fall, Spring, and Summer terms)
+- **Timeframe:** Fall 2013 - Spring 2025 (Fall, Spring, and Summer terms)
 
 ### Notes
-- File names represent the search term used to gather the data, matching the first 4 characters of the course code
+- File paths represent the search term used to gather the data, with the 3-character directory + 1-digit file name corresponding to the first 4 characters of the course code
 - Data from courses with multiple codes is almost certainly duplicated in each matching file
 
 ### Format
@@ -84,11 +84,11 @@ Excludes data from questions 0, 3, 4, and 11-16.
 
 ### */core/course-names*
 
-**Source:** https://registrar.fsu.edu/class_search, https://flscns.fldoe.org/PbCourseDescriptions.aspx
+**Source:** https://registrar.fsu.edu/scheduling/class-search, https://flscns.fldoe.org/PbCourseDescriptions.aspx
 
 ### */core/teaching-[semester]*
 
-**Source:** https://registrar.fsu.edu/class_search/
+**Source:** https://registrar.fsu.edu/scheduling/class-search
 
 ### */core/dept-names.json*
 
